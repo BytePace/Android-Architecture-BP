@@ -11,4 +11,4 @@ SQLite wrapper: [Room](https://developer.android.com/topic/libraries/architectur
 
 [Kotlin style guide](https://github.com/BytePace/kotlin-style-guide)
 
-Demo project: https://gitlab.com/bytepace/github-search-android
+Demo project: https://github.com/BytePace/MVI-demoapp
