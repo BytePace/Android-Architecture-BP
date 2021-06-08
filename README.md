@@ -11,8 +11,8 @@ Images downloading: https://square.github.io/picasso/ or https://github.com/bump
 
 Networking Retrofit2 https://square.github.io/retrofit/
 
-Mvi framework: https://github.com/badoo/MVICore
+MVVM Architecture: https://developer.android.com/jetpack/guide
 
 [Kotlin style guide](https://github.com/BytePace/kotlin-style-guide)
 
-Demo project: https://github.com/BytePace/MVI-demoapp
+Demo project: https://github.com/BytePace/GitHubSearchMVVM
