@@ -3,7 +3,7 @@ Architecture approach for Android project
 
 Language: Kotlin
 
-Layout: Jetpack compose, View
+Layout: Jetpack Compose, View
 
 Routing: [Compose Navigation](https://developer.android.com/develop/ui/compose/navigation), [Cicerone](https://github.com/terrakok/Cicerone)
 
