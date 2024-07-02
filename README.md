@@ -15,7 +15,7 @@ Images downloading: [Coil](https://coil-kt.github.io/coil/)
 
 Networking [Retrofit](https://square.github.io/retrofit/)
 
-MVVM+MVI Architecture: https://developer.android.com/jetpack/guide
+MVVM+MVI Architecture: [https://developer.android.com/jetpack/guide](https://developer.android.com/topic/architecture/ui-layer)
 
 [Multimodularity](https://developer.android.com/topic/modularization)
 
